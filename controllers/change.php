@@ -60,7 +60,7 @@
   	
 </style>
 </style>
-<<?php  ?>
+<?php  ?>
 <form id="form" method="post" action="login.php">
 	<h2>Change text!</h2>
 	<textarea name="for_inf"><?php
